@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,700,700i,900');
+
+html, body{
+	
+	border: 0;
+	margin: 0;
+	padding: 0;
+}
+
+
+
+.btn1{
+	border: none;
+    outline: none;
+          height: 35px;
+          width: 100%;
+          background-color: darkgreen;
+          color: white;
+          border-radius: 4px;
+          font-weight: bold;
+}
+
+.row {
+
+	background: whitesmoke;
+          border-radius: 30px;
+          box-shadow: 12px 12px 22px grey;
+}
